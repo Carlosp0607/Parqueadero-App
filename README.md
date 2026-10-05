@@ -1,5 +1,7 @@
 # Don Parqueo: sistema multi-empresa para parqueaderos
 
+Enfoque: diseño de API REST, aislamiento de datos multiempresa y transacciones SQL.
+
 Aplicación web para administrar parqueaderos. Registra entradas y salidas de vehículos, calcula el cobro según la tarifa, controla los turnos de caja y genera reportes de ingresos.
 
 Está pensada para atender varias empresas desde una sola instalación: cada empresa ve únicamente su propia información.
